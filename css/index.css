@@ -1,0 +1,52 @@
+*{
+    padding: 0.5%;
+}
+body{
+    padding: 1%;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    text-align: center;
+}
+header{
+    background: gray;
+    color: whitesmoke;
+    font-size: 150%;
+}
+
+section{
+    background: greenyellow;
+    padding: 1%;
+    text-align: center;
+}
+
+#img{
+    border: 5px solid  whitesmoke;
+    background: whitesmoke;
+    box-shadow: 5px 5px 15px rgba(1,1,1,0.75);
+}
+#img:hover{
+    border: 5px solid #771111;
+    background: #771111;
+}
+footer{
+    padding: 0.1%;
+    height: 8%;
+    background: #aaaaaa;
+    font-size: 150%;
+}
+#flotar{
+    text-align: right;
+}
+#links{
+    text-align: center;
+    text-decoration: underline;
+}
+#linking{
+    float: left;
+    color: black;
+    margin-right: 2%;
+}
+#linking2{
+    color: black;
+}
