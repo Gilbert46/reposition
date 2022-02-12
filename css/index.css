@@ -29,6 +29,9 @@ section{
     border: 5px solid #771111;
     background: #771111;
 }
+#img1 {
+    width: 94%;
+}
 footer{
     padding: 0.1%;
     height: 8%;
